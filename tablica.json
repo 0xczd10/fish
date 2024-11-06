@@ -1,665 +1,665 @@
 [
-    {
-        "fish": "Акула катран",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Акула-домовой",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "слабый клев",
-            "Май": "средний клев",
-            "Июн": "средний клев",
-            "Июл": "хороший клев",
-            "Авг": "хороший клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Аллигаторовая щука",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Альбула",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Арапайма",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "средний клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Ауха",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "нет клева",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "средний клев",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Барабуля",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "средний клев",
-            "Июл": "средний клев",
-            "Авг": "нет клева",
-            "Сен": "слабый клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-        {
-        "fish": "Барракуда",
-        "activity": {
-            "Янв": "средний клев",
-            "Фев": "слабый клев",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "средний клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Белоглазка",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Белуга",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "слабый клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Белый амур",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Берш",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "хороший клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Буффало",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "хороший клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Быстрянка",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "нет клева",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Ваху",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "нет клева",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Верховка",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "слабый клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "нет клева",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-        {
-        "fish": "Верхогляд",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Веслонос",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Вобла",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "хороший клев",
-            "Май": "хороший клев",
-            "Июн": "средний клев",
-            "Июл": "слабый клев",
-            "Авг": "нет клева",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Вомер",
-        "activity": {
-            "Янв": "средний клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "хороший клев",
-            "Май": "хороший клев",
-            "Июн": "средний клев",
-            "Июл": "слабый клев",
-            "Авг": "средний клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Вырезуб",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "слабый клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Вьюн",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "нет клева",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Голавль",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "хороший клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Голец",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Горбуша",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Групер",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "хороший клев",
-            "Апр": "хороший клев",
-            "Май": "средний клев",
-            "Июн": "средний клев",
-            "Июл": "слабый клев",
-            "Авг": "слабый клев",
-            "Сен": "средний клев",
-            "Окт": "средний клев",
-            "Ноя": "слабый клев",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Густера",
-        "activity": {
-            "Янв": "средний клев",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "хороший клев",
-            "Май": "хороший клев",
-            "Июн": "средний клев",
-            "Июл": "слабый клев",
-            "Авг": "слабый клев",
-            "Сен": "средний клев",
-            "Окт": "средний клев",
-            "Ноя": "средний клев",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Дорадо",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "слабый клев",
-            "Сен": "слабый клев",
-            "Окт": "средний клев",
-            "Ноя": "средний клев",
-            "Дек": "слабый клев"
-        }
-    },
-        {
-        "fish": "Елец",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Ерш",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Жерех",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "слабый клев",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "слабый клев",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Змееголов",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "слабый клев",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Зубатка",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Камбала",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Карась",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Карп",
-        "activity": {
-            "Янв": "слабый клев",
-            "Фев": "средний клев",
-            "Мар": "средний клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "слабый клев"
-        }
-    },
-    {
-        "fish": "Кета",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "средний клев",
-            "Окт": "слабый клев",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Лосось",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "средний клев",
-            "Июн": "хороший клев",
-            "Июл": "хороший клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
-    },
-    {
-        "fish": "Мойва",
-        "activity": {
-            "Янв": "нет клева",
-            "Фев": "нет клева",
-            "Мар": "слабый клев",
-            "Апр": "средний клев",
-            "Май": "хороший клев",
-            "Июн": "хороший клев",
-            "Июл": "средний клев",
-            "Авг": "средний клев",
-            "Сен": "слабый клев",
-            "Окт": "нет клева",
-            "Ноя": "нет клева",
-            "Дек": "нет клева"
-        }
+  {
+    "fish": "Katran Shark",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
     }
+  },
+  {
+    "fish": "House shark",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "weak bite",
+      "May": "medium bite",
+      "Jun": "medium bite",
+      "Jul": "good bite",
+      "Aug": "good bite",
+      "Sep": "medium biting",
+      "Oct": "weak biting",
+      "Nov": "no biting",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Alligator pike",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Albula",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "weak bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Arapaima",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "medium bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Auch",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "no bite",
+      "Sen": "weak bite",
+      "Oct": "no bite",
+      "Nov": "average bite",
+      "Dec": "no bite"
+    }
+  },
+  {
+    "fish": "Barabula",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "medium bite",
+      "Jul": "medium bite",
+      "Aug": "no bite",
+      "Sen": "weak bite",
+      "Oct": "weak bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Barracuda",
+    "activity": {
+      "Jan": "medium bite",
+      "Feb": "weak bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "medium bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "White-eyed",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Beluga",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "weak bite",
+      "May": "medium bite",
+      "June": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sep": "medium bite",
+      "Oct": "weak bite",
+      "Nov": "no biting",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "White Cupid",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Bersh",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "good bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "average bite",
+      "Aug": "average bite",
+      "Sen": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Buffalo",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "good bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium biting",
+      "Sen": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Bystryanka",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sen": "no bite",
+      "Oct": "there is no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Wahoo",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sen": "there is no bite",
+      "Oct": "there is no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Verkhovka",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "weak bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sep": "no biting",
+      "Oct": "there is no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Verhoglyad",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "June": "good bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Paddlefish",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Roach",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "good bite",
+      "May": "good bite",
+      "Jun": "medium bite",
+      "Jul": "weak bite",
+      "Aug": "no bite",
+      "Sen": "medium bite",
+      "Oct": "weak bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Vomer",
+    "activity": {
+      "Jan": "average bite",
+      "Feb": "average bite",
+      "Mar": "average bite",
+      "Apr": "good bite",
+      "May": "good bite",
+      "Jun": "medium bite",
+      "Jul": "weak bite",
+      "Aug": "medium bite",
+      "Sep": "medium bite",
+      "Oct": "weak bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Cutout",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "weak bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Loach",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sep": "no biting",
+      "Oct": "there is no bite",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Chub",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "good bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Char",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sen": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Pink salmon",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Grouper",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "good bite",
+      "Apr": "good bite",
+      "May": "medium bite",
+      "Jun": "medium bite",
+      "Jul": "weak bite",
+      "Aug": "weak bite",
+      "Sep": "medium bite",
+      "Oct": "medium bite",
+      "Nov": "weak bite",
+      "Dec": "no bite"
+    }
+  },
+  {
+    "fish": "Gustera",
+    "activity": {
+      "Jan": "medium bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "good bite",
+      "May": "good bite",
+      "Jun": "medium bite",
+      "Jul": "weak bite",
+      "Aug": "weak bite",
+      "Sep": "medium bite",
+      "Oct": "medium bite",
+      "Nov": "medium bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Dorado",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "weak bite",
+      "Sep": "weak bite",
+      "Oct": "medium bite",
+      "Nov": "medium bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Spruce",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "weak bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Ruff",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sep": "medium biting",
+      "Oct": "weak bite",
+      "Nov": "no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Asp",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "weak bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sen": "medium bite",
+      "Oct": "weak bite",
+      "Nov": "weak bite",
+      "Dec": "no bite"
+    }
+  },
+  {
+    "fish": "Snakehead",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "medium bite",
+      "Oct": "weak bite",
+      "Nov": "weak bite",
+      "Dec": "no bite"
+    }
+  },
+  {
+    "fish": "Catfish",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Flounder",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Carp",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "average bite",
+      "Aug": "average bite",
+      "Sen": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Carp",
+    "activity": {
+      "Jan": "weak bite",
+      "Feb": "medium bite",
+      "Mar": "medium bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no bite",
+      "Noah": "there is no bite",
+      "Dec": "weak bite"
+    }
+  },
+  {
+    "fish": "Keta",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sep": "medium biting",
+      "Oct": "weak biting",
+      "Nov": "no biting",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Salmon",
+    "activity": {
+      "Jan": "there is no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "medium bite",
+      "Jun": "good bite",
+      "Jul": "good bite",
+      "Aug": "medium bite",
+      "Sep": "weak biting",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  },
+  {
+    "fish": "Capelin",
+    "activity": {
+      "Jan": "no bite",
+      "Feb": "there is no bite",
+      "Mar": "weak bite",
+      "Apr": "medium bite",
+      "May": "good bite",
+      "Jun": "good bite",
+      "Jul": "medium bite",
+      "Aug": "medium bite",
+      "Sep": "weak bite",
+      "Oct": "no biting",
+      "Noah": "there is no bite",
+      "Dec": "there is no bite"
+    }
+  }
 ]
