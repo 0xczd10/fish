@@ -29,7 +29,7 @@
       "Aug": "good bite",
       "Sep": "medium biting",
       "Oct": "weak biting",
-      "Nov": "no biting",
+      "Noah": "no biting",
       "Dec": "there is no bite"
     }
   },
@@ -63,7 +63,7 @@
       "Aug": "medium bite",
       "Sep": "weak bite",
       "Oct": "weak bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -97,7 +97,7 @@
       "Aug": "no bite",
       "Sen": "weak bite",
       "Oct": "no bite",
-      "Nov": "average bite",
+      "Noah": "average bite",
       "Dec": "no bite"
     }
   },
@@ -114,7 +114,7 @@
       "Aug": "no bite",
       "Sen": "weak bite",
       "Oct": "weak bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -131,7 +131,7 @@
       "Aug": "medium bite",
       "Sep": "weak bite",
       "Oct": "medium bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -165,7 +165,7 @@
       "Aug": "medium bite",
       "Sep": "medium bite",
       "Oct": "weak bite",
-      "Nov": "no biting",
+      "Noah": "no biting",
       "Dec": "there is no bite"
     }
   },
@@ -318,7 +318,7 @@
       "Aug": "no bite",
       "Sen": "medium bite",
       "Oct": "weak bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -335,7 +335,7 @@
       "Aug": "medium bite",
       "Sep": "medium bite",
       "Oct": "weak bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -437,7 +437,7 @@
       "Aug": "weak bite",
       "Sep": "medium bite",
       "Oct": "medium bite",
-      "Nov": "weak bite",
+      "Noah": "weak bite",
       "Dec": "no bite"
     }
   },
@@ -454,7 +454,7 @@
       "Aug": "weak bite",
       "Sep": "medium bite",
       "Oct": "medium bite",
-      "Nov": "medium bite",
+      "Noah": "medium bite",
       "Dec": "weak bite"
     }
   },
@@ -471,7 +471,7 @@
       "Aug": "weak bite",
       "Sep": "weak bite",
       "Oct": "medium bite",
-      "Nov": "medium bite",
+      "Noah": "medium bite",
       "Dec": "weak bite"
     }
   },
@@ -488,7 +488,7 @@
       "Aug": "medium bite",
       "Sep": "weak bite",
       "Oct": "weak bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -505,7 +505,7 @@
       "Aug": "medium bite",
       "Sep": "medium biting",
       "Oct": "weak bite",
-      "Nov": "no bite",
+      "Noah": "no bite",
       "Dec": "there is no bite"
     }
   },
@@ -522,7 +522,7 @@
       "Aug": "medium bite",
       "Sen": "medium bite",
       "Oct": "weak bite",
-      "Nov": "weak bite",
+      "Noah": "weak bite",
       "Dec": "no bite"
     }
   },
@@ -539,7 +539,7 @@
       "Aug": "medium bite",
       "Sep": "medium bite",
       "Oct": "weak bite",
-      "Nov": "weak bite",
+      "Noah": "weak bite",
       "Dec": "no bite"
     }
   },
@@ -624,7 +624,7 @@
       "Aug": "medium bite",
       "Sep": "medium biting",
       "Oct": "weak biting",
-      "Nov": "no biting",
+      "Noah": "no biting",
       "Dec": "there is no bite"
     }
   },
