@@ -1,0 +1,372 @@
+{
+  "story": [
+    {
+      "id": 1,
+      "scene": "First Memories",
+      "text": "Ah, the first fishing... I was no more than ten years old, and all I had was a fishing rod that I cut out of a branch myself, and an old reel that belonged to my father. I didn’t know how to fish properly then, but I had a huge desire. My father stood nearby, smiling, but did not interfere. He said that fishing is a personal matter for everyone, and you need to learn through your own mistakes. After many hours, when I was almost giving up, something twitched at the end of the line. It was a tiny perch, but for me it was a real victory!",
+      "choices": [
+        {
+          "text": "Ask what fish he caught for the first time",
+          "nextSceneId": 2
+        },
+        {
+          "text": "Ask, who taught him to fish",
+          "nextSceneId": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "scene": "First Catch",
+      "text": "First catch... It was a small perch, but to me it seemed huge. I pulled it out, my heart was pounding wildly, and my hands were shaking. I looked at this perch like a treasure. This bass became a symbol of my first victory over water and a gift of nature that I will always remember.",
+      "choices": [
+        {
+          "text": "Ask what he did with the bass",
+          "nextSceneId": 4
+        },
+        {
+          "text": "Ask what emotions he experienced then",
+          "nextSceneId": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "scene": "Learning the Craft",
+      "text": "My father was a fisherman and a teacher. He didn't just show me how to hold a rod or cast gear. He taught me patience, understanding of nature. My father said that fishing is not a hunt, but a union with nature. We don't just catch fish, but we connect with the river, feel its flow, know when and where the fish will bite. My father said that real fishermen can listen to the water and see its character.",
+      "choices": [
+        {
+          "text": "Ask what other lessons his father taught him",
+          "nextSceneId": 6
+        },
+        {
+          "text": "Ask about his first big fish",
+          "nextSceneId": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "scene": "Catch and Release",
+      "text": "I released the bass back into the water. It was my first catch, but I felt that I was not ready to take it yet. My father then explained to me that sometimes you need to release a fish to show respect for its strength and wisdom. Since then, I do not always take what I catch. Every fish is a teacher, and sometimes the best lesson is freedom.",
+      "choices": [
+        {
+          "text": "Ask when he caught his biggest fish",
+          "nextSceneId": 8
+        },
+        {
+          "text": "Ask what fishing means to him",
+          "nextSceneId": 9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "scene": "The First Victory",
+      "text": "I remember looking at that little bass and feeling proud. That was the moment I became an angler. I felt a deep connection to nature and to those who fished before me. Catching your first fish is like getting your first appreciation from nature.",
+      "choices": [
+        {
+          "text": "Ask if he kept fishing after that",
+          "nextSceneId": 10
+        },
+        {
+          "text": "Ask how he felt when he caught a big fish",
+          "nextSceneId": 11
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "scene": "Father's Lessons",
+      "text": "My father taught me that fishing is an art. Not just catching, but respecting and releasing. He said that fishing should be fair. If you take something from nature, leave respect in return. He taught that fish are not just a catch, they are a part of nature, to which we all belong.",
+      "choices": [
+        {
+          "text": "Ask what else he learned",
+          "nextSceneId": 12
+        },
+        {
+          "text": "Ask about his first difficult fishing trip",
+          "nextSceneId": 13
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "scene": "The Big Catch",
+      "text": "I once caught a huge walleye, so big that the rod could barely hold it. I fought with it for an hour, feeling its strength and tenacity. When I finally pulled it out, it was like a victory over the elements. But at the same time, I felt respect for this strong fish, which did not give up until the end.",
+      "choices": [
+        {
+          "text": "Ask what he did with the pike-perch",
+          "nextSceneId": 14
+        },
+        {
+          "text": "Ask if there were any more big catches",
+          "nextSceneId": 15
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "scene": "The Biggest Fish",
+      "text": "The biggest catch of my life was a catfish. I spent the whole day reeling it in. Every time I thought it was getting close, it would make another jerk, rushing into the depths. Finally, when the catfish was on board, I knew that this moment would stay with me forever.",
+      "choices": [
+        {
+          "text": "Ask how it felt",
+          "nextSceneId": 16
+        },
+        {
+          "text": "Ask where it happened",
+          "nextSceneId": 17
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "scene": "Meaning of Fishing",
+      "text": "Fishing for me is a meditation, a time when I am alone with nature. It teaches patience, humility and understanding that that everything in life must be earned. I put my heart and soul into every trip, and the river, in turn, reveals its secrets to me.",
+      "choices": [
+        {
+          "text": "Ask what he learned over the years of fishing",
+          "nextSceneId": 18
+        },
+        {
+          "text": "Ask what advice he would give to beginner fishermen",
+          "nextSceneId": 19
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "scene": "Lifelong Journey",
+      "text": "From that day on, I dedicated myself to fishing. Every trip to the water was something special for me, every catch - a new discovery. I never felt like time was wasted, because every moment with a fishing rod in my hands is part of my journey.",
+      "choices": [
+        {
+          "text": "Ask about the most memorable moments",
+          "nextSceneId": 20
+        },
+        {
+          "text": "Ask if there was anything he regrets",
+          "nextSceneId": 21
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "scene": "The Struggle",
+      "text": "Catching a big fish is a challenge. It's not just fighting the fish, it's testing your own strength. When I caught my first big fish, it was like I had overcome myself.",
+      "choices": [
+        {
+          "text": "Ask about his favorite technique",
+          "nextSceneId": 22
+        },
+        {
+          "text": "Ask if he uses any signs",
+          "nextSceneId": 23
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "scene": "The Great Adventure",
+      "text": "There was a fishing trip I will never forget. We went to a river in the mountains, where the water was clear as glass, and the fish were rare but huge. That day I met an old pike - cunning and cautious. I knew it would be difficult to catch, but it was a real challenge. I watched the water, calculated its habits, and in the end it gave in. At such moments you feel that nature recognizes you as worthy.",
+      "choices": [
+        {
+          "text": "Ask if this was his best fishing",
+          "nextSceneId": 13
+        },
+        {
+          "text": "Ask how he felt after this victory",
+          "nextSceneId": 14
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "scene": "Best Day on the Water",
+      "text": "Yes, probably my best day on the water. There, in the mountains, far from the hustle and bustle, I felt like I was in the heart of nature. That fish, that day... It was a moment of harmony with the world.",
+      "choices": [
+        {
+          "text": "Ask if he went back there again",
+          "nextSceneId": 15
+        },
+        {
+          "text": "Ask if he ever felt something like this",
+          "nextSceneId": 16
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "scene": "Victory and Reflection",
+      "text": "When I caught her, I didn't feel triumphant like before. It was more of a moment of deep respect. I released her back into the water and watched her disappear into the depths. As you get older, you begin to understand that true victory is not to win, but to learn to live in harmony with nature.",
+      "choices": [
+        {
+          "text": "Ask about his views on fishing",
+          "nextSceneId": 17
+        },
+        {
+          "text": "Ask how fishing has changed him",
+          "nextSceneId": 18
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "scene": "Returning to the Mountain River",
+      "text": "Oh yes, I did. But every time I went back, the place was not the same. The fish were fewer, the water was murkier. It was a lesson: everything changes, and what was yesterday can no longer be returned. We can only appreciate what we have now.",
+      "choices": [
+        {
+          "text": "Ask him what he learned about the changes",
+          "nextSceneId": 19
+        },
+        {
+          "text": "Ask about his latest fishing trips",
+          "nextSceneId": 20
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "scene": "Another Moment of Harmony",
+      "text": "A sense of harmony like that day was rare, but I found it in the little things. Sometimes, sitting on the shore, I just listened to the water and the wind. These moments of silence and peace are what fishing is all about. Not every catch is a joy, but every minute by the water is a gift.",
+      "choices": [
+        {
+          "text": "Ask what he would like to say to young fishermen",
+          "nextSceneId": 21
+        },
+        {
+          "text": "Ask about his parting words",
+          "nextSceneId": 22
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "scene": "The Philosophy of Fishing",
+      "text": "Fishing is not a sport or just a hobby. It is a way to get closer to nature, to learn patience and respect. I have always believed that fishing is not about the amount of catch, but about the peace and quiet that you find within yourself.",
+      "choices": [
+        {
+          "text": "Ask if he recommends fishing as a way of life",
+          "nextSceneId": 23
+        },
+        {
+          "text": "Ask about his wise advice",
+          "nextSceneId": 24
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "scene": "How Fishing Changed Him",
+      "text": "Fishing has taught me to be patient, to respect nature and to see beauty in small things. Every fisherman knows that sometimes you have to wait for hours for one moment. But this waiting is like life. She teaches us to appreciate what we have.",
+      "choices": [
+        {
+          "text": "Ask for his final words",
+          "nextSceneId": 25
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "scene": "Embracing Change",
+      "text": "Everything changes, and nature is no exception. I have seen rivers disappear and species disappear. But I have also seen nature recover when given a chance. Every fisherman should remember: we are only guests here, and it is our duty to leave the world a little better than we found it.",
+      "choices": [
+        {
+          "text": "Ask for his parting advice",
+          "nextSceneId": 26
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "scene": "Final Days by the Water",
+      "text": "In recent years, I often go ashore, but no longer with a fishing rod, but just to sit and watch. I feel that my mission is complete. I have passed on to my children and grandchildren everything I knew. Now they will continue my path.",
+      "choices": [
+        {
+          "text": "Ask for his advice for new generations",
+          "nextSceneId": 27
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "scene": "Advice for Young Fishermen",
+      "text": "If I could tell young fishermen anything, it would be: fish with soul and respect each fish. Fishing is not just about catching a fish. It is the art of seeing more than meets the eye.",
+      "choices": [
+        {
+          "text": "Ask for his final words",
+          "nextSceneId": 28
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "scene": "Farewell",
+      "text": "On that note, I bid farewell. Remember, fishing is not only the art of catching fish, but also a way to connect with something greater. This is the time when you are alone with yourself. Let every catch be a lesson and a gift for you.",
+      "choices": []
+    },
+    {
+      "id": 23,
+      "scene": "Fishing as a Way of Life",
+      "text": "Fishing is a way of life if you are willing to accept it. It requires patience, respect, and a willingness to accept that not everything depends on us. It is a path that gives you peace and strength.",
+      "choices": [
+        {
+          "text": "Ask about his final thoughts",
+          "nextSceneId": 29
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "scene": "Wisdom from a Lifetime",
+      "text": "Remember: every time you are on the water, you are learning. Every fisherman learns as long as he lives. Take your time, watch, listen, and remember, we're only here temporarily.",
+      "choices": [
+        {
+          "text": "Ask for a parting word",
+          "nextSceneId": 30
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "scene": "Conclusion of a Journey",
+      "text": "My journey is over, but yours is just beginning. May every trip to the water be a joy, every catch a gift. And remember, true fishing is in the heart.",
+      "choices": []
+    },
+    {
+      "id": 26,
+      "scene": "Final Words of Advice",
+      "text": "Love nature, respect it, and it will love you back. Fishing is not just catching fish. It is an art. And this art is for the soul.",
+      "choices": []
+    },
+    {
+      "id": 27,
+      "scene": "For the Next Generation",
+      "text": "To young fishermen I would say: do not chase quantity, look for depth. Every fish, every river has a story. Listen to them.",
+      "choices": []
+    },
+    {
+      "id": 28,
+      "scene": "The Final Goodbye",
+      "text": "Well, that's it, my friend. If you ever see the sunset over the water, remember my words. Fishing is not just a catch, it is a path we take to better understand ourselves.",
+      "choices": []
+    },
+    {
+      "id": 29,
+      "scene": "Reflecting on a Lifetime",
+      "text": "You know, sometimes I think about all those days on the river. Every year I found something new in fishing: sometimes it was peace, sometimes a challenge. But always, always it was an honest occupation, full of beauty and silence. Fishing, like life, teaches us to leave traces in the heart, not on the ground.",
+      "choices": [
+        {
+          "text": "Ask what it means to leave traces in the heart",
+          "nextSceneId": 30
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "scene": "The True Legacy",
+      "text": "Leaving a trace in the heart means leaving good memories, sharing knowledge, teaching the next fisherman to respect nature. If any of the young fishermen remember me and say: 'Grandpa taught us to take care of the rivers and fish,' then I have not lived my life in vain. Well, now go catch your fish, my friend. And don't forget - the main thing is not the catch, but what remains in your heart.",
+      "choices": []
+    }
+  ]
+}
