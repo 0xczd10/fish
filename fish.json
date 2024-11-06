@@ -1,181 +1,517 @@
 {
   "categories": {
-    "Все": [
-    { "name": "Акула катран" },
-    { "name": "Акула-домовой" },
-    { "name": "Аллигаторовая щука" },
-    { "name": "Альбула" },
-    { "name": "Арапайма" },
-    { "name": "Ауха" },
-    { "name": "Барабуля" },
-    { "name": "Барракуда" },
-    { "name": "Басс" },
-    { "name": "Белоглазка" },
-    { "name": "Белуга" },
-    { "name": "Белый амур" },
-    { "name": "Берш" },
-    { "name": "Буффало" },
-    { "name": "Быстрянка" },
-    { "name": "Ваху" },
-    { "name": "Верховка" },
-    { "name": "Верхогляд" },
-    { "name": "Веслонос" },
-    { "name": "Вобла" },
-    { "name": "Вомер" },
-    { "name": "Вырезуб" },
-    { "name": "Вьюн" },
-    { "name": "Голавль" },
-    { "name": "Голец" },
-    { "name": "Гольян" },
-    { "name": "Горбуша" },
-    { "name": "Горчак" },
-    { "name": "Групер" },
-    { "name": "Густера" },
-    { "name": "Дорадо" },
-    { "name": "Елец" },
-    { "name": "Ерш" },
-    { "name": "Желтощёк" },
-    { "name": "Жерех" },
-    { "name": "Зелёный априон" },
-    { "name": "Змееголов" },
-    { "name": "Зубатка" },
-    { "name": "Калуга" },
-    { "name": "Камбала" },
-    { "name": "Канальный сомик" },
-    { "name": "Капля" },
-    { "name": "Каранкс" },
-    { "name": "Карась" },
-    { "name": "Карп" },
-    { "name": "Кета" },
-    { "name": "Кефаль" },
-    { "name": "Кижуч" },
-    { "name": "Килька" },
-    { "name": "Кобия" },
-    { "name": "Колюшка" },
-    { "name": "Корюшка" },
-    { "name": "Красноперка" },
-    { "name": "Краснопёрый опах" },
-    { "name": "Кумжа" },
-    { "name": "Кунджа" },
-    { "name": "Лакедра" },
-    { "name": "Ласкирь" },
-    { "name": "Латимерия" },
-    { "name": "Ледяная рыба" },
-    { "name": "Ленок" },
-    { "name": "Летучая рыба" },
-    { "name": "Лещ" },
-    { "name": "Линь" },
-    { "name": "Лобан" },
-    { "name": "Лосось" },
-    { "name": "Луна" },
-    { "name": "Луфарь" },
-    { "name": "Лучан" },
-    { "name": "Мальма" },
-    { "name": "Марлин" },
-    { "name": "Меч" },
-    { "name": "Минтай" },
-    { "name": "Мойва" },
-    { "name": "Морской чёрт" },
-    { "name": "Муксун" },
-    { "name": "Мурена" },
-    { "name": "Налим" },
-    { "name": "Нельма" },
-    { "name": "Нерка" },
-    { "name": "Нильский окунь" },
-    { "name": "Окунь" },
-    { "name": "Омуль" },
-    { "name": "Оселедец" },
-    { "name": "Осётр" },
-    { "name": "Палтус" },
-    { "name": "Паяра" },
-    { "name": "Пеламида" },
-    { "name": "Пеленгас" },
-    { "name": "Пермит" },
-    { "name": "Пескарь" },
-    { "name": "Пикша" },
-    { "name": "Плотва" },
-    { "name": "Подкаменщик" },
-    { "name": "Подуст" },
-    { "name": "Простипома" },
-    { "name": "Рипус" },
-    { "name": "Ротан" },
-    { "name": "Рустер" },
-    { "name": "Ряпушка" },
-    { "name": "Сазан" },
-    { "name": "Сайка" },
-    { "name": "Сарган" },
-    { "name": "Семга" },
-    { "name": "Сериола" },
-    { "name": "Сибас" },
-    { "name": "Сиг" },
-    { "name": "Синец" },
-    { "name": "Скорпена" },
-    { "name": "Скумбрия" },
-    { "name": "Снур" },
-    { "name": "Солнечный окунь" },
-    { "name": "Сом" },
-    { "name": "Сорожка" },
-    { "name": "Ставрида" },
-    { "name": "Стерлядь" }
+    "All": [
+      {
+        "name": "Spiny Dogfish Shark"
+      },
+      {
+        "name": "Gownie Shark"
+      },
+      {
+        "name": "Alligator Pike"
+      },
+      {
+        "name": "Albula"
+      },
+      {
+        "name": "Arapaima"
+      },
+      {
+        "name": "Aukha"
+      },
+      {
+        "name": "Red Mullet"
+      },
+      {
+        "name": "Barracuda"
+      },
+      {
+        "name": "Bass"
+      },
+      {
+        "name": "White Eye"
+      },
+      {
+        "name": "Beluga"
+      },
+      {
+        "name": "White Amur"
+      },
+      {
+        "name": "Bersh"
+      },
+      {
+        "name": "Buffalo"
+      },
+      {
+        "name": "Bistryanka"
+      },
+      {
+        "name": "Wahu"
+      },
+      {
+        "name": "Verkhovka"
+      },
+      {
+        "name": "Verhoglyad"
+      },
+      {
+        "name": "Paddlefish"
+      },
+      {
+        "name": "Vobla"
+      },
+      {
+        "name": "Vomer"
+      },
+      {
+        "name": "Vyrezub"
+      },
+      {
+        "name": "Vyun"
+      },
+      {
+        "name": "Chub"
+      },
+      {
+        "name": "Gallets"
+      },
+      {
+        "name": "Minnow"
+      },
+      {
+        "name": "Pink salmon"
+      },
+      {
+        "name": "Bitterling"
+      },
+      {
+        "name": "Grouper"
+      },
+      {
+        "name": "Bream"
+      },
+      {
+        "name": "Dorado"
+      },
+      {
+        "name": "Dace"
+      },
+      {
+        "name": "Ruff"
+      },
+      {
+        "name": "Yellowcheek"
+      },
+      {
+        "name": "Asp"
+      },
+      {
+        "name": "Green aprion"
+      },
+      {
+        "name": "Snakehead"
+      },
+      {
+        "name": "Wolffish"
+      },
+      {
+        "name": "Kaluga"
+      },
+      {
+        "name": "Flounder"
+      },
+      {
+        "name": "Channel catfish"
+      },
+      {
+        "name": "Drop"
+      },
+      {
+        "name": "Caranx"
+      },
+      {
+        "name": "Crucian carp"
+      },
+      {
+        "name": "Chum salmon"
+      },
+      {
+        "name": "Mullet"
+      },
+      {
+        "name": "Coho salmon"
+      },
+      {
+        "name": "Sprat"
+      },
+      {
+        "name": "Cobia"
+      },
+      {
+        "name": "Stickleback"
+      },
+      {
+        "name": "Smelt"
+      },
+      {
+        "name": "Rud"
+      },
+      {
+        "name": "Rudfin Opah"
+      },
+      {
+        "name": "Kumzha"
+      },
+      {
+        "name": "Kunja"
+      },
+      {
+        "name": "Amberjack"
+      },
+      {
+        "name": "Laskir"
+      },
+      {
+        "name": "Latimeria"
+      },
+      {
+        "name": "Icefish"
+      },
+      {
+        "name": "Lenok"
+      },
+      {
+        "name": "Flying fish"
+      },
+      {
+        "name": "Bream"
+      },
+      {
+        "name": "Tench"
+      },
+      {
+        "name": "Loban"
+      },
+      {
+        "name": "Salmon"
+      },
+      {
+        "name": "Moon"
+      },
+      {
+        "name": "Bluefish"
+      },
+      {
+        "name": "Luchan"
+      },
+      {
+        "name": "Malma"
+      },
+      {
+        "name": "Marlin"
+      },
+      {
+        "name": "Sword"
+      },
+      {
+        "name": "Pollock"
+      },
+      {
+        "name": "Caplin"
+      },
+      {
+        "name": "Monkfish"
+      },
+      {
+        "name": "Muksun"
+      },
+      {
+        "name": "Moray eel"
+      },
+      {
+        "name": "Burbot"
+      },
+      {
+        "name": "Nelma"
+      },
+      {
+        "name": "Nerka"
+      },
+      {
+        "name": "Nile perch"
+      },
+      {
+        "name": "Perch"
+      },
+      {
+        "name": "Omul"
+      },
+      {
+        "name": "Oseledets"
+      },
+      {
+        "name": "Osetr"
+      },
+      {
+        "name": "Palbut"
+      },
+      {
+        "name": "Pajara"
+      },
+      {
+        "name": "Pelamida"
+      },
+      {
+        "name": "Pelengas"
+      },
+      {
+        "name": "Permit"
+      },
+      {
+        "name": "Peskar"
+      },
+      {
+        "name": "Haddock"
+      },
+      {
+        "name": "Roach"
+      },
+      {
+        "name": "Podust"
+      },
+      {
+        "name": "Prostipoma"
+      },
+      {
+        "name": "Ripus"
+      },
+      {
+        "name": "Rotan"
+      },
+      {
+        "name": "Rooster"
+      },
+      {
+        "name": "Ryapushka"
+      },
+      {
+        "name": "Carp"
+      },
+      {
+        "name": "Codfish"
+      },
+      {
+        "name": "Garfish"
+      },
+      {
+        "name": "Salmon"
+      },
+      {
+        "name": "Seriola"
+      },
+      {
+        "name": "Sea bass"
+      },
+      {
+        "name": "Whitefish"
+      },
+      {
+        "name": "Blue bream"
+      },
+      {
+        "name": "Scorpionfish"
+      },
+      {
+        "name": "Mackerel"
+      },
+      {
+        "name": "Snur"
+      },
+      {
+        "name": "Sunny bass"
+      },
+      {
+        "name": "Catfish"
+      },
+      {
+        "name": "Roach"
+      },
+      {
+        "name": "Mackerel"
+      },
+      {
+        "name": "Sterlet"
+      }
     ],
-    "Пресноводные": [
-      { "name": "Аллигаторовая щука" },
-      { "name": "Ауха" },
-      { "name": "Буффало" },
-      { "name": "Берш" },
-      { "name": "Вобла" },
-      { "name": "Голавль" },
-      { "name": "Елец" },
-      { "name": "Желтощёк" },
-      { "name": "Жерех" },
-      { "name": "Змееголов" },
-      { "name": "Карась" },
-      { "name": "Карп" },
-      { "name": "Кета" },
-      { "name": "Лещ" },
-      { "name": "Линь" },
-      { "name": "Лосось" },
-      { "name": "Налим" },
-      { "name": "Окунь" },
-      { "name": "Осётр" },
-      { "name": "Пескарь" },
-      { "name": "Плотва" },
-      { "name": "Ротан" },
-      { "name": "Сазан" },
-      { "name": "Сиг" },
-      { "name": "Сом" },
-      { "name": "Сорожка" },
-      { "name": "Стерлядь" }
+    "Freshwater": [
+      {
+        "name": "Alligator pike"
+      },
+      {
+        "name": "Aukha"
+      },
+      {
+        "name": "Buffalo"
+      },
+      {
+        "name": "Bersh"
+      },
+      {
+        "name": "Vobla"
+      },
+      {
+        "name": "Chub"
+      },
+      {
+        "name": "Dace"
+      },
+      {
+        "name": "Yellowcheek"
+      },
+      {
+        "name": "Asp"
+      },
+      {
+        "name": "Snakehead"
+      },
+      {
+        "name": "Crucian carp"
+      },
+      {
+        "name": "Carp"
+      },
+      {
+        "name": "Chum salmon"
+      },
+      {
+        "name": "Bream"
+      },
+      {
+        "name": "Tench"
+      },
+      {
+        "name": "Salmon"
+      },
+      {
+        "name": "Burbot"
+      },
+      {
+        "name": "Perch"
+      },
+      {
+        "name": "Sturgeon"
+      },
+      {
+        "name": "Gudgeon"
+      },
+      {
+        "name": "Roach"
+      },
+      {
+        "name": "Rotan"
+      },
+      {
+        "name": "Carp"
+      },
+      {
+        "name": "Whitefish"
+      },
+      {
+        "name": "Catfish"
+      },
+      {
+        "name": "Roach"
+      },
+      {
+        "name": "Sterlet"
+      }
     ],
-    "Морские": [
-      { "name": "Акула катран" },
-      { "name": "Акула-домовой" },
-      { "name": "Альбула" },
-      { "name": "Барракуда" },
-      { "name": "Белуга" },
-      { "name": "Белый амур" },
-      { "name": "Вомер" },
-      { "name": "Групер" },
-      { "name": "Дорадо" },
-      { "name": "Зелёный априон" },
-      { "name": "Зубатка" },
-      { "name": "Калуга" },
-      { "name": "Камбала" },
-      { "name": "Кефаль" },
-      { "name": "Кобия" },
-      { "name": "Колюшка" },
-      { "name": "Корюшка" },
-      { "name": "Краснопёрый опах" },
-      { "name": "Латимерия" },
-      { "name": "Морской чёрт" },
-      { "name": "Палтус" },
-      { "name": "Ряпушка" },
-      { "name": "Семга" },
-      { "name": "Сибас" },
-      { "name": "Скорпена" },
-      { "name": "Скумбрия" },
-      { "name": "Ставрида" },
-      { "name": "Тунец" }
+    "Sea": [
+      {
+        "name": "Spiny dogfish shark"
+      },
+      {
+        "name": "Gownie shark"
+      },
+      {
+        "name": "Albula"
+      },
+      {
+        "name": "Barracuda"
+      },
+      {
+        "name": "Beluga"
+      },
+      {
+        "name": "White amur"
+      },
+      {
+        "name": "Vomer"
+      },
+      {
+        "name": "Grouper"
+      },
+      {
+        "name": "Dorado"
+      },
+      {
+        "name": "Green aprion"
+      },
+      {
+        "name": "Wolffish"
+      },
+      {
+        "name": "Kaluga"
+      },
+      {
+        "name": "Flounder"
+      },
+      {
+        "name": "Mullet"
+      },
+      {
+        "name": "Cobia"
+      },
+      {
+        "name": "Stickleback"
+      },
+      {
+        "name": "Smelt"
+      },
+      {
+        "name": "Redfin opah"
+      },
+      {
+        "name": "Coelacanth"
+      },
+      {
+        "name": "Monkfish"
+      },
+      {
+        "name": "Halibut"
+      },
+      {
+        "name": "Venice"
+      },
+      {
+        "name": "Salmon"
+      },
+      {
+        "name": "Sea bass"
+      },
+      {
+        "name": "Scorpionfish"
+      },
+      {
+        "name": "Mackerel"
+      },
+      {
+        "name": "Mackerel"
+      },
+      {
+        "name": "Tuna"
+      }
     ]
   }
 }
